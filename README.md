@@ -1,8 +1,5 @@
-<center><h1> Welcome to my Github Profile!</h1></center>
-- 👋 Hi, I’m @Rriggs95
-- 👀 I’m interested in Data Science as applied for Economic Predictions
-- 🌱 I’m currently learning Machine Learning for Time Series Analysis
-- 🎓 I'm currently completing my Master's Degree in Econophysics
+<h1 align="center"> Welcome to my Github Profile!</h1>
+I am currently completing my Master's Degree in Econophysics, and am looking to enter the field of Data Science.
 
 <!---
 Rriggs95/Rriggs95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
