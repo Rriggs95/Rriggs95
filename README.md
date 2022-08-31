@@ -1,4 +1,4 @@
-<h1> Welcome to my Github Profile!</h1>
+<center><h1> Welcome to my Github Profile!</h1></center>
 - 👋 Hi, I’m @Rriggs95
 - 👀 I’m interested in Data Science as applied for Economic Predictions
 - 🌱 I’m currently learning Machine Learning for Time Series Analysis
